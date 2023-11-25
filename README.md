@@ -1,9 +1,9 @@
 —------------------------------------------------------------------------------------
 KHOÁ HỌC DAX MASTER
 
-1. DAX BASIC TO ADVANCE (4.500k)
-2. SQL Server Analysis Service (1.500k)
-3. DAX Case Study + DAX Visualization (4.500k)
+1. DAX BASIC TO ADVANCE (4.500k).
+2. SQL Server Analysis Service (1.500k).
+3. DAX Case Study + DAX Visualization (4.500k).
 
 Đăng ký khóa học chuyển khoản:
 Chủ tài khoản: Nguyen Huy Hoang
