@@ -1,5 +1,5 @@
 —------------------------------------------------------------------------------------
-
+<p align="center"><b style="font-size: 24px;">KHOÁ HỌC DAX MASTER.</b></p>
 **<p align="center">KHOÁ HỌC DAX MASTER</p>**
 1. DAX BASIC TO ADVANCE (4.500k).
 2. SQL Server Analysis Service (1.500k).
