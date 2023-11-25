@@ -1,6 +1,6 @@
 —------------------------------------------------------------------------------------
-KHOÁ HỌC DAX MASTER
 
+**<p align="center">KHOÁ HỌC DAX MASTER</p>**
 1. DAX BASIC TO ADVANCE (4.500k).
 2. SQL Server Analysis Service (1.500k).
 3. DAX Case Study + DAX Visualization (4.500k).
